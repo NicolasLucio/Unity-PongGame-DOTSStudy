@@ -4,8 +4,9 @@ This exemple use the version 2019.3.0f6 of Unity
 
 # Screenshot Exemples
 
-Ingame imagem
-![Screenshot] (https://github.com/NicolasLucio/Unity-PongGame-DOTSStudy/blob/master/git/pongstudy01.jpg)
+Ingame image
+
+![Image](git/pongstudy01.jpg)
 
 # Project Information
 
@@ -16,8 +17,6 @@ To play this game, you can move the right paddle with W and S, and the left padd
 # Important Information
 
 For this project, was used the folloting assets:
-
-![Screenshot] (https://github.com/NicolasLucio/Unity-PongGame-DOTSStudy/blob/master/git/pongstudy02.jpg)
 
 ![Image](git/pongstudy02.jpg)
 
