@@ -20,7 +20,7 @@ For this project, was used the folloting assets:
 
 ![Image](git/pongstudy02.jpg)
 
-Is extremely important to use the same version as shown in the image
+Is extremely important to use the **same version** as shown in the image
 
 # Additional Setting
 
