@@ -19,6 +19,8 @@ For this project, was used the folloting assets:
 
 ![Screenshot] (https://github.com/NicolasLucio/Unity-PongGame-DOTSStudy/blob/master/git/pongstudy02.jpg)
 
+![Image](git/pongstudy02.jpg)
+
 Is extremely important to use the same version as shown in the image
 
 # Additional Setting
