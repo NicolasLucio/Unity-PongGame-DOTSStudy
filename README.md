@@ -10,7 +10,7 @@ Ingame image
 
 # Project Information
 
-This game is a study about the new Unity Syntax, using DOTS only. The tutorial for this same project, you can find [here] ()
+This game is a study about the new Unity Syntax, using DOTS only. The tutorial for this same project, you can find [here] (https://www.youtube.com/watch?v=a9AUXNFBWt4&t=2185s)
 
 To play this game, you can move the right paddle with W and S, and the left paddle with Up Arrow and Down Arrow
 
