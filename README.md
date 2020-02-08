@@ -1,2 +1,28 @@
 # Unity-PongGame-DOTSStudy
-A game study about the new Unity syntax 
+
+This exemple use the version 2019.3.0f6 of Unity
+
+# Screenshot Exemples
+
+Ingame imagem
+![Screenshot] (git/pongstudy01.jpg)
+
+# Project Information
+
+This game is a study about the new Unity Syntax, using DOTS only. The tutorial for this same project, you can find [here] ()
+
+To play this game, you can move the right paddle with W and S, and the left paddle with Up Arrow and Down Arrow
+
+# Important Information
+
+For this project, was used the folloting assets:
+
+![Screenshot] (git/pongstudy02.jpg)
+
+Is extremely important to use the same version as shown in the image
+
+# Additional Setting
+
+This game have a responsive screen, so you can play it in every screen with the 16:10 or 16:9 ratio.
+
+You can press ESC to exit.
